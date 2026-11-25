@@ -24,4 +24,4 @@ Buoc 4: Chay lenh:
 python main.py
 
 ## 5. Tac gia
-Sinh vien
+Sinh vien dai hoc mo dia chat
